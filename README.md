@@ -95,8 +95,8 @@ Below are the organizations owned by Burnt-Exe.io:
 | **Durban-University-of-Technology-DUT**   | ![Durban-University-of-Technology-DUT](https://avatars.githubusercontent.com/u/171165434?s=64&v=4)                  |
 | **Nelson-Mandela-University-NMU**         | ![Nelson-Mandela-University-NMU](https://avatars.githubusercontent.com/u/170214804?s=64&v=4)                        |
 | **North-West-University-NWU**             | ![North-West-University-NWU](https://avatars.githubusercontent.com/u/170215074?s=64&v=4)                            |
-| **Pause-Online**                          | ![Pause-Online]()                                         |
-| **Pero's Academy**                        | ![Pero's Academy](https://avatars.githubusercontent.com/u/158819841?s=64&v=4) (https://avatars.githubusercontent.com/u/155438366?s=64&v=4)                                       |
+| **Pause-Online**                          |                                       |
+| **Pero's Academy**                        | ![Pero's Academy](https://avatars.githubusercontent.com/u/158819841?s=64&v=4)                                       |
 | **Quantum-Pay**                           | ![Quantum-Pay](https://avatars.githubusercontent.com/u/171094682?s=64&v=4)                                          |
 | **Skunkworks-Lab-Services**               | ![Skunkworks-Lab-Services](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                              |
 | **skunkworksza**                          | ![skunkworksza](https://avatars.githubusercontent.com/u/127200796?s=64&v=4)                                         |
@@ -108,7 +108,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | **University-of-Limpopo-UL**              | ![University-of-Limpopo-UL](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                             |
 | **University-of-South-Africa-Unisa**      | ![University-of-South-Africa-Unisa](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                     |
 | **University-of-the-Free-State-UFS**      | ![University-of-the-Free-State-UFS](https://avatars.githubusercontent.com/u/171474790?s=64&v=4)                     |
-| **Vaal-University-of-Technology-VUT**     | ![Vaal-University-of-Technology-VUT]((https://avatars.githubusercontent.com/u/166485532?s=64&v=4))                    |
+| **Vaal-University-of-Technology-VUT**     |                     |
 | **Witwatersrand-Wits-University**         | ![Witwatersrand-Wits-University](https://avatars.githubusercontent.com/u/171475219?s=64&v=4)                        |
 
 ## 📁 Projects
