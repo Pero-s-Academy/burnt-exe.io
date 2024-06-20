@@ -87,7 +87,7 @@ Below are the organizations owned by Burnt-Exe.io:
 
 | Organization                              | Logo                                                                                     |
 |-------------------------------------------|------------------------------------------------------------------------------------------|
-| **4-levels**                              | ![4-levels]()                                             |
+| **4-levels**                              | ![4-levels](https://avatars.githubusercontent.com/u/164502065?s=64&v=4)                                             |
 | **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/166485532?s=64&v=4)                                    |
 | **Course-Dot**                            | ![Course-Dot](https://avatars.githubusercontent.com/u/155151671?s=64&v=4)                                           |
 | **Course-Monster**                        | ![Course-Monster](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                                       |
@@ -95,7 +95,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | **Durban-University-of-Technology-DUT**   | ![Durban-University-of-Technology-DUT](https://avatars.githubusercontent.com/u/171165434?s=64&v=4)                  |
 | **Nelson-Mandela-University-NMU**         | ![Nelson-Mandela-University-NMU](https://avatars.githubusercontent.com/u/170214804?s=64&v=4)                        |
 | **North-West-University-NWU**             | ![North-West-University-NWU](https://avatars.githubusercontent.com/u/170215074?s=64&v=4)                            |
-| **Pause-Online**                          | ![Pause-Online](https://avatars.githubusercontent.com/u/164502065?s=64&v=4)                                         |
+| **Pause-Online**                          | ![Pause-Online]()                                         |
 | **Pero's Academy**                        | ![Pero's Academy](https://avatars.githubusercontent.com/u/158819841?s=64&v=4) (https://avatars.githubusercontent.com/u/155438366?s=64&v=4)                                       |
 | **Quantum-Pay**                           | ![Quantum-Pay](https://avatars.githubusercontent.com/u/171094682?s=64&v=4)                                          |
 | **Skunkworks-Lab-Services**               | ![Skunkworks-Lab-Services](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                              |
