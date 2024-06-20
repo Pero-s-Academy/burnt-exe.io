@@ -100,7 +100,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | **Quantum-Pay**                           | ![Quantum-Pay](https://avatars.githubusercontent.com/u/171094682?s=64&v=4)                                          |
 | **Skunkworks-Lab-Services**               | ![Skunkworks-Lab-Services](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                              |
 | **skunkworksza**                          | ![skunkworksza](https://avatars.githubusercontent.com/u/127200796?s=64&v=4)                                         |
-| **StorVault**                             | ![StorVault](https://avatars.githubusercontent.com/u/166485532?s=64&v=4)                                            |
+| **StorVault**                             | ![StorVault](https://avatars.githubusercontent.com/u/166816276?s=64&v=4)                                            |
 | **Tshwane-University-of-Technology-TUT**  | ![Tshwane-University-of-Technology-TUT](https://avatars.githubusercontent.com/u/171472704?s=64&v=4)                 |
 | **UnderGrooveRave**                       | ![UnderGrooveRave](https://avatars.githubusercontent.com/u/171472868?s=64&v=4)                                      |
 | **University-of-Cape-Town-UCT**           | ![University-of-Cape-Town-UCT](https://avatars.githubusercontent.com/u/171473327?s=64&v=4)                          |
@@ -108,7 +108,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | **University-of-Limpopo-UL**              | ![University-of-Limpopo-UL](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                             |
 | **University-of-South-Africa-Unisa**      | ![University-of-South-Africa-Unisa](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                     |
 | **University-of-the-Free-State-UFS**      | ![University-of-the-Free-State-UFS](https://avatars.githubusercontent.com/u/171474790?s=64&v=4)                     |
-| **Vaal-University-of-Technology-VUT**     | ![Vaal-University-of-Technology-VUT](https://avatars.githubusercontent.com/u/166816276?s=64&v=4)                    |
+| **Vaal-University-of-Technology-VUT**     | ![Vaal-University-of-Technology-VUT]((https://avatars.githubusercontent.com/u/166485532?s=64&v=4))                    |
 | **Witwatersrand-Wits-University**         | ![Witwatersrand-Wits-University](https://avatars.githubusercontent.com/u/171475219?s=64&v=4)                        |
 
 ## 📁 Projects
