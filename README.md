@@ -88,7 +88,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | Organization                              | Logo                                                                                     |
 |-------------------------------------------|------------------------------------------------------------------------------------------|
 | **4-levels**                              | ![4-levels](https://avatars.githubusercontent.com/u/158819841?s=64&v=4)                                             |
-| **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/164135981?s=64&v=4)                                     |
+| **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/166485532?s=200&v=4)                                    |
 | **Course-Dot**                            | ![Course-Dot](https://avatars.githubusercontent.com/u/153610891?s=64&v=4)                                           |
 | **Course-Monster**                        | ![Course-Monster](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                                       |
 | **Cyber-Retaliator-Solutions**            | ![Cyber-Retaliator-Solutions](https://avatars.githubusercontent.com/u/155151671?s=64&v=4)                           |
