@@ -1,4 +1,4 @@
-# Burnt-Exe.io
+# Burnt-Exe.io @ Pero's Academy
 
 [![GitHub License](https://img.shields.io/github/license/pero-s-academy/burnt-exe.io)](LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/pero-s-academy/burnt-exe.io)](https://github.com/pero-s-academy/burnt-exe.io/issues)
@@ -6,7 +6,9 @@
 [![Faculty Member](https://img.shields.io/badge/faculty-member-brightgreen)](https://github.com/raydo-matthee)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpero-s-academy.github.io%2Fburnt-exe.io%2F)](https://pero-s-academy.github.io/burnt-exe.io/)
 
-Welcome to **Burnt-Exe.io**, the innovative learning platform developed by Pero's Academy. Our mission is to revolutionize the way people learn coding and technology skills, making education accessible and effective for everyone.
+![Burnt-Exe](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+Welcome to **Burnt-Exe.io @ Pero's Academy**, the innovative learning platform developed by Pero's Academy. Our mission is to revolutionize the way people learn coding and technology skills, making education accessible and effective for everyone.
 
 ## 🚀 Project Overview
 
@@ -28,6 +30,8 @@ Burnt-Exe.io is an interactive learning platform that offers a variety of course
 | **1,000 Users**   | Reached 1,000 active users                       | Mar 2023   |
 | **Top Rated**     | Rated as a top learning platform by learners     | Jun 2023   |
 | **New Courses**   | Added 20 new courses in various domains          | Dec 2023   |
+
+![Achievements](https://media.giphy.com/media/l3q2IpUMyqx4V2nRS/giphy.gif)
 
 ## 📊 Skills Matrix
 
@@ -55,12 +59,7 @@ Burnt-Exe.io is an interactive learning platform that offers a variety of course
 - **Partnerships**: Form strategic partnerships with industry leaders to enhance our offerings.
 - **Continuous Improvement**: Constantly update and improve our courses and platform based on feedback and technological advancements.
 
-## 📈 Future Plans for Pero's Academy
-
-- **Course Expansion**: Develop and launch new courses in emerging technologies.
-- **Competitor Analysis**: Continuously analyze and improve based on competitors like Codecademy, Coursera, and Udemy.
-- **Community Growth**: Foster a vibrant community of learners, mentors, and industry professionals.
-- **Advanced Features**: Integrate advanced features such as AI-driven personalized learning paths and career analytics.
+![Vision](https://media.giphy.com/media/1oF1KAEYvmXBp4c3sA/giphy.gif)
 
 ## 🔧 Call-Out Functions & Design Elements
 
@@ -80,7 +79,54 @@ Our platform boasts a modern, intuitive design that enhances the learning experi
 
 ## 📚 Resources
 
-For more information, visit our [website](https://pero-s-academy.github.io/burnt-exe.io/) or contact us at [support@burnt-exe.io](mailto:support@burnt-exe.io).
+For more information, visit our [website](https://www.perosacademy.com) or contact us at [support@perosacademy.com](mailto:support@perosacademy.com).
+
+## 📂 Organizations
+
+Below are the organizations owned by Burnt-Exe.io:
+
+| Organization                              | Logo                                                                                     |
+|-------------------------------------------|------------------------------------------------------------------------------------------|
+| **4-levels**                              | ![4-levels](https://avatars.githubusercontent.com/u/158819841?s=64&v=4)                                             |
+| **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/164135981?s=64&v=4)                                     |
+| **Course-Dot**                            | ![Course-Dot](https://avatars.githubusercontent.com/u/153610891?s=64&v=4)                                           |
+| **Course-Monster**                        | ![Course-Monster](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                                       |
+| **Cyber-Retaliator-Solutions**            | ![Cyber-Retaliator-Solutions](https://avatars.githubusercontent.com/u/155151671?s=64&v=4)                           |
+| **Durban-University-of-Technology-DUT**   | ![Durban-University-of-Technology-DUT](https://avatars.githubusercontent.com/u/171165434?s=64&v=4)                  |
+| **Nelson-Mandela-University-NMU**         | ![Nelson-Mandela-University-NMU](https://avatars.githubusercontent.com/u/170214804?s=64&v=4)                        |
+| **North-West-University-NWU**             | ![North-West-University-NWU](https://avatars.githubusercontent.com/u/170215074?s=64&v=4)                            |
+| **Pause-Online**                          | ![Pause-Online](https://avatars.githubusercontent.com/u/164502065?s=64&v=4)                                         |
+| **Pero's Academy**                        | ![Pero's Academy](https://avatars.githubusercontent.com/u/155438366?s=64&v=4)                                       |
+| **Quantum-Pay**                           | ![Quantum-Pay](https://avatars.githubusercontent.com/u/171094682?s=64&v=4)                                          |
+| **Skunkworks-Lab-Services**               | ![Skunkworks-Lab-Services](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                              |
+| **skunkworksza**                          | ![skunkworksza](https://avatars.githubusercontent.com/u/127200796?s=64&v=4)                                         |
+| **StorVault**                             | ![StorVault](https://avatars.githubusercontent.com/u/166485532?s=64&v=4)                                            |
+| **Tshwane-University-of-Technology-TUT**  | ![Tshwane-University-of-Technology-TUT](https://avatars.githubusercontent.com/u/171472704?s=64&v=4)                 |
+| **UnderGrooveRave**                       | ![UnderGrooveRave](https://avatars.githubusercontent.com/u/171472868?s=64&v=4)                                      |
+| **University-of-Cape-Town-UCT**           | ![University-of-Cape-Town-UCT](https://avatars.githubusercontent.com/u/171473327?s=64&v=4)                          |
+| **University-of-Johannesburg-UJ**         | ![University-of-Johannesburg-UJ](https://avatars.githubusercontent.com/u/171473857?s=64&v=4)                        |
+| **University-of-Limpopo-UL**              | ![University-of-Limpopo-UL](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                             |
+| **University-of-South-Africa-Unisa**      | ![University-of-South-Africa-Unisa](https://avatars.githubusercontent.com/u/171474257?s=64&v=4)                     |
+| **University-of-the-Free-State-UFS**      | ![University-of-the-Free-State-UFS](https://avatars.githubusercontent.com/u/171474790?s=64&v=4)                     |
+| **Vaal-University-of-Technology-VUT**     | ![Vaal-University-of-Technology-VUT](https://avatars.githubusercontent.com/u/166816276?s=64&v=4)                    |
+| **Witwatersrand-Wits-University**         | ![Witwatersrand-Wits-University](https://avatars.githubusercontent.com/u/171475219?s=64&v=4)                        |
+
+## 📁 Projects
+
+Here are some of the key projects under Burnt-Exe.io:
+
+- **Phishing Simulator Learning Platform**: A comprehensive platform designed to educate and train individuals and organizations on recognizing and preventing phishing attacks through interactive simulations.
+- **LMS**: A robust learning management system for efficient course delivery and tracking.
+- **Pero's Academy**: An initiative to provide quality education and training in various tech domains.
+
+## 📄 Blog
+
+Stay updated with our latest news and articles:
+
+- [Skunkworks Blog](http://blog.skunkworks.africa)
+- [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7104248104035479553)
+
+![Blog](https://media.giphy.com/media/l0Ex5CZ8vrqzNlbAc/giphy.gif)
 
 ---
 
