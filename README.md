@@ -6,7 +6,7 @@
 [![Faculty Member](https://img.shields.io/badge/faculty-member-brightgreen)](https://github.com/raydo-matthee)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpero-s-academy.github.io%2Fburnt-exe.io%2F)](https://pero-s-academy.github.io/burnt-exe.io/)
 
-![Burnt-Exe](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Pero's Academy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtlY3ZwZjI4dnlhdHdqMjIwNmY3aTZ2NnU2YXozYm40MXFpMnRjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv55cdOQdBirSUnAY4/giphy.gif)
 
 Welcome to **Burnt-Exe.io @ Pero's Academy**, the innovative learning platform developed by Pero's Academy. Our mission is to revolutionize the way people learn coding and technology skills, making education accessible and effective for everyone.
 
@@ -31,7 +31,7 @@ Burnt-Exe.io is an interactive learning platform that offers a variety of course
 | **Top Rated**     | Rated as a top learning platform by learners     | Jun 2023   |
 | **New Courses**   | Added 20 new courses in various domains          | Dec 2023   |
 
-![Achievements](https://media.giphy.com/media/l3q2IpUMyqx4V2nRS/giphy.gif)
+![Achievements](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4YXg4Mjk3ejh5eWhuY2EycGFuZmY3NGphamR3YnNzaGQwbXM2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GXZVx7kiFQ1IuZpB8o/giphy.gif)
 
 ## 📊 Skills Matrix
 
@@ -59,7 +59,7 @@ Burnt-Exe.io is an interactive learning platform that offers a variety of course
 - **Partnerships**: Form strategic partnerships with industry leaders to enhance our offerings.
 - **Continuous Improvement**: Constantly update and improve our courses and platform based on feedback and technological advancements.
 
-![Vision](https://media.giphy.com/media/1oF1KAEYvmXBp4c3sA/giphy.gif)
+![Vision](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4NzdwbmYwMXBtYjk4cDBsYzBuZnJybGd3YmU1Yzdpa2Iyb25hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EizPK3InQbrNK/giphy.gif)
 
 ## 🔧 Call-Out Functions & Design Elements
 
@@ -88,7 +88,7 @@ Below are the organizations owned by Burnt-Exe.io:
 | Organization                              | Logo                                                                                     |
 |-------------------------------------------|------------------------------------------------------------------------------------------|
 | **4-levels**                              | ![4-levels](https://avatars.githubusercontent.com/u/158819841?s=64&v=4)                                             |
-| **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/166485532?s=200&v=4)                                    |
+| **Aero-and-General**                      | ![Aero-and-General](https://avatars.githubusercontent.com/u/166485532?s=64&v=4)                                    |
 | **Course-Dot**                            | ![Course-Dot](https://avatars.githubusercontent.com/u/153610891?s=64&v=4)                                           |
 | **Course-Monster**                        | ![Course-Monster](https://avatars.githubusercontent.com/u/154006129?s=64&v=4)                                       |
 | **Cyber-Retaliator-Solutions**            | ![Cyber-Retaliator-Solutions](https://avatars.githubusercontent.com/u/155151671?s=64&v=4)                           |
@@ -126,7 +126,7 @@ Stay updated with our latest news and articles:
 - [Skunkworks Blog](http://blog.skunkworks.africa)
 - [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7104248104035479553)
 
-![Blog](https://media.giphy.com/media/l0Ex5CZ8vrqzNlbAc/giphy.gif)
+![Blog](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndkeXA4a3ZraGp3bTY1emdzb3MyZmd1MWM0anZibGx5a2FkNnlwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1oOlQwjwAw7nJrpbg/giphy-downsized-large.gif)
 
 ---
 
