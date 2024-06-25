@@ -1,33 +1,391 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Simple Webpage</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Burnt-Exe.io @ Pero's Academy</title>
     <style>
-        /* Add some styling to the <h1> element */
-        h1 {
+        body {
+            background-image: url("skunkworks_africa.png");
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
             font-family: Arial, sans-serif;
-            color: #333; /* Dark gray color */
-            text-align: center;
+            color: white;
         }
-
-        /* Style the <p> element */
-        p {
-            font-family: Georgia, serif;
-            font-size: 16px;
-            line-height: 1.5;
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        .header h1 {
+            color: #ADD8E6;
+            margin: 0;
+        }
+        .content {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5);
+            margin: 20px;
+            border-radius: 10px;
+        }
+        .content h2, .content h3, .content p {
+            color: white;
+        }
+        .badge-container img {
+            margin: 5px;
+        }
+        .table-container {
+            overflow-x: auto;
             margin: 20px 0;
         }
-
-        /* Add a background color to the entire body */
-        body {
-            background-color: #f9f9f9; /* Light gray background */
+        .table-container table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .table-container th, .table-container td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ADD8E6;
+        }
+        .nav-bar {
+            text-align: center;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        .nav-bar a {
+            color: #ADD8E6;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        .nav-bar a:hover {
+            text-decoration: underline;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.5em;
+            }
+            .nav-bar a {
+                display: block;
+                margin: 10px 0;
+            }
+            .content {
+                margin: 10px;
+                padding: 10px;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to My Webpage</h1>
-    <p>This is a simple HTML file with embedded CSS to get started with web development.</p>
+    <div class="nav-bar">
+        <a href="index.html">Home</a>
+        <a href="onboarding.html">Onboarding</a>
+        <a href="projects.html">Projects</a>
+        <a href="placements.html">Placements</a>
+    </div>
+
+    <div class="header">
+        <h1><u>Burnt-Exe.io @ Pero's Academy</u></h1>
+    </div>
+
+    <div class="content">
+        <div class="badge-container">
+            <a href="LICENSE"><img src="https://img.shields.io/github/license/pero-s-academy/burnt-exe.io" alt="GitHub License"></a>
+            <a href="https://github.com/pero-s-academy/burnt-exe.io/issues"><img src="https://img.shields.io/github/issues/pero-s-academy/burnt-exe.io" alt="GitHub Issues"></a>
+            <a href="https://github.com/pero-s-academy/burnt-exe.io/pulls"><img src="https://img.shields.io/github/issues-pr/pero-s-academy/burnt-exe.io" alt="GitHub Pull Requests"></a>
+            <a href="https://github.com/raydo-matthee"><img src="https://img.shields.io/badge/faculty-member-brightgreen" alt="Faculty Member"></a>
+            <a href="https://pero-s-academy.github.io/burnt-exe.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fpero-s-academy.github.io%2Fburnt-exe.io%2F" alt="Website"></a>
+        </div>
+
+        <div class="image-container">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtlY3ZwZjI4dnlhdHdqMjIwNmY3aTZ2NnU2YXozYm40MXFpMnRjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv55cdOQdBirSUnAY4/giphy.gif" alt="Pero's Academy">
+        </div>
+
+        <h2>Welcome to Burnt-Exe.io @ Pero's Academy</h2>
+        <p>The innovative learning platform developed by Pero's Academy. Our mission is to revolutionize the way people learn coding and technology skills, making education accessible and effective for everyone.</p>
+
+        <h3>🚀 Project Overview</h3>
+        <p>Burnt-Exe.io is an interactive learning platform that offers a variety of courses and learning paths in programming, web development, data science, and more. Our goal is to provide high-quality, hands-on education to help individuals achieve their career goals.</p>
+
+        <h3>Key Features</h3>
+        <ul>
+            <li><strong>Interactive Courses:</strong> Engaging content with real-time feedback.</li>
+            <li><strong>Projects:</strong> Hands-on projects to apply your skills.</li>
+            <li><strong>Achievements:</strong> Earn badges and certificates as you progress.</li>
+            <li><strong>Community Support:</strong> Join a community of learners and mentors.</li>
+            <li><strong>Career Guidance:</strong> Get advice and tips to advance your career.</li>
+        </ul>
+
+        <h3>🏆 Achievements</h3>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th>Achievement</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                </tr>
+                <tr>
+                    <td><strong>Launch</strong></td>
+                    <td>Official launch of Burnt-Exe.io</td>
+                    <td>Jan 2023</td>
+                </tr>
+                <tr>
+                    <td><strong>1,000 Users</strong></td>
+                    <td>Reached 1,000 active users</td>
+                    <td>Mar 2023</td>
+                </tr>
+                <tr>
+                    <td><strong>Top Rated</strong></td>
+                    <td>Rated as a top learning platform by learners</td>
+                    <td>Jun 2023</td>
+                </tr>
+                <tr>
+                    <td><strong>New Courses</strong></td>
+                    <td>Added 20 new courses in various domains</td>
+                    <td>Dec 2023</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="image-container">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4YXg4Mjk3ejh5eWhuY2EycGFuZmY3NGphamR3YnNzaGQwbXM2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GXZVx7kiFQ1IuZpB8o/giphy.gif" alt="Achievements">
+        </div>
+
+        <h3>📊 Skills Matrix</h3>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th>Skill</th>
+                    <th>Beginner</th>
+                    <th>Intermediate</th>
+                    <th>Advanced</th>
+                    <th>Expert</th>
+                </tr>
+                <tr>
+                    <td>HTML/CSS</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>JavaScript</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                </tr>
+                <tr>
+                    <td>Python</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Data Analysis</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Machine Learning</td>
+                    <td></td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Cloud Computing</td>
+                    <td></td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                </tr>
+                <tr>
+                    <td>Project Management</td>
+                    <td>✅</td>
+                    <td>✅</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+
+        <h3>🎯 Career Goals & Business Vision</h3>
+        <h4>Career Goals</h4>
+        <ul>
+            <li><strong>Expand Expertise:</strong> Continue to develop advanced skills in machine learning and cloud computing.</li>
+            <li><strong>Mentorship:</strong> Guide and mentor aspiring developers and technologists.</li>
+            <li><strong>Innovation:</strong> Lead innovative projects that push the boundaries of technology and education.</li>
+        </ul>
+
+        <h4>Business Vision</h4>
+        <ul>
+            <li><strong>Global Reach:</strong> Expand Burnt-Exe.io to a global audience, providing accessible education worldwide.</li>
+            <li><strong>Partnerships:</strong> Form strategic partnerships with industry leaders to enhance our offerings.</li>
+            <li><strong>Continuous Improvement:</strong> Constantly update and improve our courses and platform based on feedback and technological advancements.</li>
+        </ul>
+
+        <div class="image-container">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4NzdwbmYwMXBtYjk4cDBsYzBuZnJybGd3YmU1Yzdpa2Iyb25hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EizPK3InQbrNK/giphy.gif" alt="Vision">
+        </div>
+
+        <h3>🔧 Call-Out Functions & Design Elements</h3>
+        <blockquote><strong>Note:</strong> Call-out functions and design elements make our platform unique and user-friendly.</blockquote>
+
+        <h4>Call-Out Functions</h4>
+        <ul>
+            <li><strong>Interactive Editor:</strong> Code directly in the browser with instant feedback.</li>
+            <li><strong>Progress Tracking:</strong> Visualize your learning journey with detailed progress reports.</li>
+            <li><strong>Mentorship Program:</strong> Connect with experienced mentors for guidance and support.</li>
+        </ul>
+
+        <h4>Design Elements</h4>
+        <div class="image-container">
+            <img src="https://source.unsplash.com/featured/?technology,design" alt="Innovative Design">
+        </div>
+        <p>Our platform boasts a modern, intuitive design that enhances the learning experience. We use visually appealing graphics and a clean, responsive layout to ensure users can learn comfortably on any device.</p>
+
+        <h3>📚 Resources</h3>
+        <p>For more information, visit our <a href="https://www.perosacademy.com" target="_blank">website</a> or contact us at <a href="mailto:support@perosacademy.com">support@perosacademy.com</a>.</p>
+
+        <h3>📂 Organizations</h3>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th>Organization</th>
+                    <th>Logo</th>
+                </tr>
+                <tr>
+                    <td><strong>4-levels</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/164502065?s=64&v=4" alt="4-levels"></td>
+                </tr>
+                <tr>
+                    <td><strong>Aero-and-General</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/166485532?s=64&v=4" alt="Aero-and-General"></td>
+                </tr>
+                <tr>
+                    <td><strong>Course-Dot</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/155151671?s=64&v=4" alt="Course-Dot"></td>
+                </tr>
+                <tr>
+                    <td><strong>Course-Monster</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/154006129?s=64&v=4" alt="Course-Monster"></td>
+                </tr>
+                <tr>
+                    <td><strong>Cyber-Retaliator-Solutions</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/153610891?s=64&v=4" alt="Cyber-Retaliator-Solutions"></td>
+                </tr>
+                <tr>
+                    <td><strong>Durban-University-of-Technology-DUT</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171165434?s=64&v=4" alt="Durban-University-of-Technology-DUT"></td>
+                </tr>
+                <tr>
+                    <td><strong>Nelson-Mandela-University-NMU</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/170214804?s=64&v=4" alt="Nelson-Mandela-University-NMU"></td>
+                </tr>
+                <tr>
+                    <td><strong>North-West-University-NWU</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/170215074?s=64&v=4" alt="North-West-University-NWU"></td>
+                </tr>
+                <tr>
+                    <td><strong>Pause-Online</strong></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><strong>Pero's Academy</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/158819841?s=64&v=4" alt="Pero's Academy"></td>
+                </tr>
+                <tr>
+                    <td><strong>Quantum-Pay</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171094682?s=64&v=4" alt="Quantum-Pay"></td>
+                </tr>
+                <tr>
+                    <td><strong>Skunkworks-Lab-Services</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/154006129?s=64&v=4" alt="Skunkworks-Lab-Services"></td>
+                </tr>
+                <tr>
+                    <td><strong>skunkworksza</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/127200796?s=64&v=4" alt="skunkworksza"></td>
+                </tr>
+                <tr>
+                    <td><strong>StorVault</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/166816276?s=64&v=4" alt="StorVault"></td>
+                </tr>
+                <tr>
+                    <td><strong>Tshwane-University-of-Technology-TUT</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171472704?s=64&v=4" alt="Tshwane-University-of-Technology-TUT"></td>
+                </tr>
+                <tr>
+                    <td><strong>UnderGrooveRave</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171472868?s=64&v=4" alt="UnderGrooveRave"></td>
+                </tr>
+                <tr>
+                    <td><strong>University-of-Cape-Town-UCT</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171473327?s=64&v=4" alt="University-of-Cape-Town-UCT"></td>
+                </tr>
+                <tr>
+                    <td><strong>University-of-Johannesburg-UJ</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171473857?s=64&v=4" alt="University-of-Johannesburg-UJ"></td>
+                </tr>
+                <tr>
+                    <td><strong>University-of-Limpopo-UL</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171474257?s=64&v=4" alt="University-of-Limpopo-UL"></td>
+                </tr>
+                <tr>
+                    <td><strong>University-of-South-Africa-Unisa</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171474257?s=64&v=4" alt="University-of-South-Africa-Unisa"></td>
+                </tr>
+                <tr>
+                    <td><strong>University-of-the-Free-State-UFS</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171474790?s=64&v=4" alt="University-of-the-Free-State-UFS"></td>
+                </tr>
+                <tr>
+                    <td><strong>Vaal-University-of-Technology-VUT</strong></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><strong>Witwatersrand-Wits-University</strong></td>
+                    <td><img src="https://avatars.githubusercontent.com/u/171475219?s=64&v=4" alt="Witwatersrand-Wits-University"></td>
+                </tr>
+            </table>
+        </div>
+
+        <h3>📁 Projects</h3>
+        <p>Here are some of the key projects under Burnt-Exe.io:</p>
+        <ul>
+            <li><strong>Phishing Simulator Learning Platform:</strong> A comprehensive platform designed to educate and train individuals and organizations on recognizing and preventing phishing attacks through interactive simulations.</li>
+            <li><strong>LMS:</strong> A robust learning management system for efficient course delivery and tracking.</li>
+            <li><strong>Pero's Academy:</strong> An initiative to provide quality education and training in various tech domains.</li>
+        </ul>
+
+        <h3>📄 Blog</h3>
+        <p>Stay updated with our latest news and articles:</p>
+        <ul>
+            <li><a href="http://blog.skunkworks.africa" target="_blank">Skunkworks Blog</a></li>
+            <li><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7104248104035479553" target="_blank">Subscribe on LinkedIn</a></li>
+        </ul>
+
+        <div class="image-container">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndkeXA4a3ZraGp3bTY1emdzb3MyZmd1MWM0anZibGx5a2FkNnlwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1oOlQwjwAw7nJrpbg/giphy-downsized-large.gif" alt="Blog">
+        </div>
+
+        <p>Thank you for being a part of Burnt-Exe.io and Pero's Academy. Together, we can achieve great things!</p>
+    </div>
 </body>
 </html>
