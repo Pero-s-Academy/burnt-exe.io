@@ -12,18 +12,18 @@ body {
 
 .nav-bar {
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 15px;
     position: fixed;
     width: 100%;
     top: 0;
     z-index: 1000;
-    border-bottom: 1px solid #ADD8E6;
+    border-bottom: 2px solid #ff5722;
 }
 
 .nav-bar a {
-    color: #ADD8E6;
-    margin: 0 15px;
+    color: #ff5722;
+    margin: 0 20px;
     text-decoration: none;
     font-size: 1.2em;
 }
@@ -35,25 +35,30 @@ body {
 .header {
     text-align: center;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5);
-    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 70px;
+    border-bottom: 2px solid #ff5722;
 }
 
 .header h1 {
-    color: #ADD8E6;
+    color: #ff9800;
     margin: 0;
 }
 
 .content {
     text-align: center;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
     margin: 20px;
     border-radius: 10px;
 }
 
 .content h2, .content h3, .content p {
-    color: white;
+    color: #fff;
+}
+
+.section {
+    margin-bottom: 20px;
 }
 
 .badge-container img {
@@ -74,7 +79,23 @@ body {
 .table-container th, .table-container td {
     padding: 10px;
     text-align: center;
-    border: 1px solid #ADD8E6;
+    border: 1px solid #ff5722;
+}
+
+.project {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: rgba(255, 87, 34, 0.1);
+    border-radius: 5px;
+}
+
+.project h3 {
+    margin: 10px 0;
+    color: #ff9800;
+}
+
+.project p {
+    margin: 10px 0;
 }
 
 .image-container img {
@@ -91,10 +112,6 @@ body {
     padding: 0;
 }
 
-.section {
-    margin-bottom: 20px;
-}
-
 @media (max-width: 768px) {
     .header h1 {
         font-size: 1.5em;
@@ -107,4 +124,30 @@ body {
         margin: 10px;
         padding: 10px;
     }
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-left: 5px solid #ff5722;
+    padding: 15px;
+    margin: 20px 0;
+    color: #fff;
 }
