@@ -1,0 +1,109 @@
+body {
+    background-image: url("skunkworks_africa.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+.nav-bar {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #ADD8E6;
+}
+
+.nav-bar a {
+    color: #ADD8E6;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.nav-bar a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 60px; /* Adjusted for fixed nav-bar */
+}
+
+.header h1 {
+    color: #ADD8E6;
+    margin: 0;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.content h2, .content h3, .content p {
+    color: white;
+    margin-bottom: 15px;
+}
+
+.badge-container img {
+    margin: 5px;
+}
+
+.table-container {
+    overflow-x: auto;
+    margin: 20px 0;
+}
+
+.table-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.table-container th, .table-container td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ADD8E6;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.section {
+    margin: 40px 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 1.5em;
+    }
+    .nav-bar a {
+        display: block;
+        margin: 10px 0;
+    }
+    .content {
+        margin: 10px;
+        padding: 10px;
+    }
+}
